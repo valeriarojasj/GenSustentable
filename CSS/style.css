@@ -943,13 +943,7 @@ label.dice:active::before {
   font-size: 0.66rem;
 }
 
-#game #board .tile.tile52::before {
-  top: auto;
-  bottom: 0rem;
-}
-#game #board .tile.tile76::before {
-  left: 0.6rem;
-}
+
 
 
 
